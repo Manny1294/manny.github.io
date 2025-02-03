@@ -84,9 +84,7 @@ testimonial[0].textContent =
 testimonial[1].textContent =
   "Great job bringing the designs to life! Your attention to detail and smooth transitions really enhance the user experience. Looking forward to more seamless collaborations.";
 
-// const nameChange = document.querySelectorAll(".star-part");
-// nameChange[0].textContent = "James";
-// nameChange[1].textContent = "Mirabel";
+
 
 const job = document.querySelector(".job");
 job.textContent = "NFT Specialist";
